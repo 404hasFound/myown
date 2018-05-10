@@ -1,5 +1,3 @@
 # myown
 practice some small test
--测试一下代码行
-1.试一下
-2.再试一下
+[![Build Status](https://travis-ci.org/mybatis/spring.svg?branch=master)](https://travis-ci.org/mybatis/spring)
